@@ -1,5 +1,5 @@
 [package]
-name = "hello-wasm"
+name = "hello-wasm-standalone"
 version = "0.1.0"
 authors = ["Brian Kirkpatrick <code@tythos.net>"]
 description = "A sample project with wasm-pack"
